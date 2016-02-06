@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment of R week 2
+## Caching the Inverse of a Matrix
 
 ## Create a matrix of x
 
